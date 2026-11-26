@@ -34,7 +34,7 @@ Wiki page: [M453](../../../../PAGES/M453.md)
 - **Words (OCR):** 159 in 137 lines: Rig 222k · R2o 229k · R7 Icok · RA I5k · Ris @ok · Ri?I5K · R8 22k · Rs Lk · Ri622k · RI_USK · Rlo m · 23
 - **Title block:** (70, 0)–(432, 218) mm: PN3569 LM14sb · R2z * · R2e Iok · R24 I5k · R25 "5k · WBS · C1o"0/s · Ci3 22425 · R27 4k7 · R55 101a4 · CANADA · 7-119 · C16- 22125 · C23 · Ipols · R39 " · 4k7 · ~cis-G8p · Ci8 · 220p · Ci9 · 2LS · R4
 
-Every curve, box, word and wire group: [1978 - 453-06-002 - M453A CUE AMPLIFIER COMPONENT LAYOUT - DRN MRW - ENG MRW - ISS 5 (traced).json](../SCHEMATICS/1978%20-%20453-06-002%20-%20M453A%20CUE%20AMPLIFIER%20COMPONENT%20LAYOUT%20-%20DRN%20MRW%20-%20ENG%20MRW%20-%20ISS%205%20(traced).json) (the CAD file: `1978 - 453-06-002 - M453A CUE AMPLIFIER COMPONENT LAYOUT - DRN MRW - ENG MRW - ISS 5 (traced).dxf`).
+Every curve, box, word and wire group: [1978 - 453-06-002 - M453A CUE AMPLIFIER COMPONENT LAYOUT - DRN MRW - ENG MRW - ISS 5 (traced).json](../SCHEMATICS/1978%20-%20453-06-002%20-%20M453A%20CUE%20AMPLIFIER%20COMPONENT%20LAYOUT%20-%20DRN%20MRW%20-%20ENG%20MRW%20-%20ISS%205%20%28traced%29.json) (the CAD file: `1978 - 453-06-002 - M453A CUE AMPLIFIER COMPONENT LAYOUT - DRN MRW - ENG MRW - ISS 5 (traced).dxf`).
 
 ## Full text
 

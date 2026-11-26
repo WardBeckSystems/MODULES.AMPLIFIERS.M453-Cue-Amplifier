@@ -35,7 +35,7 @@ Wiki page: [M453](../../../../PAGES/M453.md)
 - **Words (OCR):** 62 in 57 lines: TpsoE · 0.754 · +25v · Ph3569 · 6k8 · CR7 · [N4023 · ct · 122/25v · Ice · 3*3562 · Slu
 - **Wiring (first pass):** 93 connected wire groups from 553 runs, 2 dotted junctions; labelled ends: 97 mm → 47/25 +; 82 mm → Rio, 8 8F; 80 mm → R25 <, Rzs, 5k6, ip 29B; 74 mm → Ice, FN9569, 10op5v; 64 mm → TpsoE, CR7
 
-Every curve, box, word and wire group: [19xx - 453-02-001 - CUE AMPLIFIER SCHEMATIC - DRN D. Mahoney - ISS 2 (traced).json](../SCHEMATICS/19xx%20-%20453-02-001%20-%20CUE%20AMPLIFIER%20SCHEMATIC%20-%20DRN%20D.%20Mahoney%20-%20ISS%202%20(traced).json) (the CAD file: `19xx - 453-02-001 - CUE AMPLIFIER SCHEMATIC - DRN D. Mahoney - ISS 2 (traced).dxf`).
+Every curve, box, word and wire group: [19xx - 453-02-001 - CUE AMPLIFIER SCHEMATIC - DRN D. Mahoney - ISS 2 (traced).json](../SCHEMATICS/19xx%20-%20453-02-001%20-%20CUE%20AMPLIFIER%20SCHEMATIC%20-%20DRN%20D.%20Mahoney%20-%20ISS%202%20%28traced%29.json) (the CAD file: `19xx - 453-02-001 - CUE AMPLIFIER SCHEMATIC - DRN D. Mahoney - ISS 2 (traced).dxf`).
 
 ## Full text
 

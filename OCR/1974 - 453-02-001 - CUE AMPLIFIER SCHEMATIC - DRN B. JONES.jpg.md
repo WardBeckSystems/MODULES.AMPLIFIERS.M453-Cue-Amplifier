@@ -33,7 +33,7 @@ Wiki page: [M453](../../../../PAGES/M453.md)
 - **Closed boxes:** 23
 - **Wiring (first pass):** 86 connected wire groups from 548 runs
 
-Every curve, box, word and wire group: [1974 - 453-02-001 - CUE AMPLIFIER SCHEMATIC - DRN B. JONES (traced).json](../SCHEMATICS/1974%20-%20453-02-001%20-%20CUE%20AMPLIFIER%20SCHEMATIC%20-%20DRN%20B.%20JONES%20(traced).json) (the CAD file: `1974 - 453-02-001 - CUE AMPLIFIER SCHEMATIC - DRN B. JONES (traced).dxf`).
+Every curve, box, word and wire group: [1974 - 453-02-001 - CUE AMPLIFIER SCHEMATIC - DRN B. JONES (traced).json](../SCHEMATICS/1974%20-%20453-02-001%20-%20CUE%20AMPLIFIER%20SCHEMATIC%20-%20DRN%20B.%20JONES%20%28traced%29.json) (the CAD file: `1974 - 453-02-001 - CUE AMPLIFIER SCHEMATIC - DRN B. JONES (traced).dxf`).
 
 ## Full text
 
