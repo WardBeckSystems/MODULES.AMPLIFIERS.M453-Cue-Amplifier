@@ -4,13 +4,12 @@ Ward-Beck Systems M453, 1974|7. Wiki page: [M453 on WBSps.ca](https://wardbecksy
 
 | Folder | What is in it | Files |
 |---|---|---|
-| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 33 |
-| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 8 |
-| [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 6 |
-| [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 15 |
-| [PHOTOS/](PHOTOS/) | photographs of the module | 2 |
-| [SOFTWARE/](SOFTWARE/) | program listings, firmware, the plugin | 1 |
-| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 8 |
+| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 32 |
+| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 7 |
+| [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 5 |
+| [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 14 |
+| [PHOTOS/](PHOTOS/) | photographs of the module | 1 |
+| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 7 |
 | [OCR/](OCR/) | the note of every file: date, origin, title block, OCR text | 23 |
 
 <!-- module data: tools/module_specs.py, tools/forum_quotes.py -->
@@ -37,6 +36,14 @@ _Mechanical drawings: front panels, cover plates, metalwork and hardware (-03- d
 <tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKbGpaLXFobFM0LWc/view?resourcekey=0-gJj070qzW-zJAXFFU_zNIA" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKbGpaLXFobFM0LWc&resourcekey=0-gJj070qzW-zJAXFFU_zNIA" width="240" alt="1976 - M453 - 453-04-001.jpg"></a><br><sub>1976|9 · 453-04-001 · <a href="MECHANICAL/1976%20-%20M453%20-%20453-04-001%20(EXTRACTED).svg">vectors</a></sub></td></tr>
 </table>
 
+## 3-D model
+
+[`MECHANICAL/M453.stl`](MECHANICAL/M453.stl) (GitHub turns it in 3-D) · [view, change and generate it on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/2026/stl.html?m=M453)
+
+- **Size:** 56.13 × 167.97 mm panel, 165 mm deep, 3.2 mm plate (the drawing sheet, taken as drawn 1:1)
+- **From the drawing:** 2 holes and cut-outs, 1 knobs (front panel: `MECHANICAL/M453 - front panel.svg`)
+- Made by `tools/module_models.py` (→ `MECHANICAL/M453.model.json`) and `tools/stl/make_stl.mjs` in [WBSps.ca](https://github.com/WardBeckSystems/WBSps.ca); the site makes the same STL from the same JSON.
+
 ## Schematics
 
 _Electrical drawings: schematics (-02-), functional diagrams (-01-), component layouts (-06-), wiring (-09-), PCB files (.pcb .dsn), and beside each scan its `(EXTRACTED).svg`: the vectors traced from it._
@@ -45,13 +52,9 @@ _Electrical drawings: schematics (-02-), functional diagrams (-01-), component l
 <tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKUHFGajJpZUF3TlU/view?resourcekey=0-Qcc8Y6ayQGMeD_bDMu-QqA" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKUHFGajJpZUF3TlU&resourcekey=0-Qcc8Y6ayQGMeD_bDMu-QqA" width="240" alt="1976 - M453 - 453-02-001 - CUE AMPLIFIER.jpg"></a><br><sub>1976|9 · 453-02-001 - CUE AMPLIFIER · <a href="SCHEMATICS/1976%20-%20M453%20-%20453-02-001%20-%20CUE%20AMPLIFIER%20(EXTRACTED).svg">vectors</a></sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/1Lytd4Ftop2HCZtI9bveukspWpho9duEU/view" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=1Lytd4Ftop2HCZtI9bveukspWpho9duEU" width="240" alt="19xx - 453-02-001 - CUE AMPLIFIER SCHEMATIC - DRN D. Mahoney - ISS 2.jpg"></a><br><sub>19xx - 453-02-001 - CUE AMPLIFIER SCHEMATIC - DRN D. Mahoney - ISS 2 · <a href="SCHEMATICS/19xx%20-%20453-02-001%20-%20CUE%20AMPLIFIER%20SCHEMATIC%20-%20DRN%20D.%20Mahoney%20-%20ISS%202%20(EXTRACTED).svg">vectors</a></sub></td></tr>
 </table>
 
-Not on Google Drive yet: `1974 - 453-02-001 - CUE AMPLIFIER SCHEMATIC - DRN B. JONES.jpg`, `1974 - B 453-02 - CUE AMPLIFIER SCHEMATIC - DRN B. JONES.jpg`, `1978 - 453-01-002 - M453A CUE AMPLIFIER FUNCTIONAL DIAGRAM - DRN P. MAHONEY - ENG RKB - ISS 3 (2).jpg`, `1978 - 453-01-002 - M453A CUE AMPLIFIER FUNCTIONAL DIAGRAM - DRN P. MAHONEY - ENG RKB - ISS 3.jpg`, `1978 - 453-06-002 - M453A CUE AMPLIFIER COMPONENT LAYOUT - DRN MRW - ENG MRW - ISS 4.jpg`, `1978 - 453-06-002 - M453A CUE AMPLIFIER COMPONENT LAYOUT - DRN MRW - ENG MRW - ISS 5.jpg`
-
 ## Pinouts
 
 _Pinouts: the RTO-144 edge connector (connection sheets, connector layouts and rear views, strapping), and the pinout / connections drawings made from them. The module root `RTO.json` lists every contact._
-
-Not on Google Drive yet: `M453 - RTO-144 Connections.pdf`
 
 ## RTO-144 pinout
 
@@ -79,8 +82,6 @@ _Manuals and manual pages, price lists, RTO-144 connection sheets, brochures, ad
 <tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKa1RnVXFCRU9UeDA/view?resourcekey=0-HstK7E0Mu-VZp59Y7Wdh1w" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKa1RnVXFCRU9UeDA&resourcekey=0-HstK7E0Mu-VZp59Y7Wdh1w" width="240" alt="19xx - M453 - DOC - L3242 - P04.jpg"></a><br><sub>19xx - M453 - DOC - L3242 - P04</sub></td></tr>
 </table>
 
-Not on Google Drive yet: `19xx - M453 - M453.jpg`
-
 ## KiCad
 
 _KiCad: a schematic (`.kicad_sch`) traced from each electrical drawing, the module symbol (`.kicad_sym`) and its PCB projects. Traced schematics are the line work only: redraw with symbols over them._
@@ -92,7 +93,6 @@ _KiCad: a schematic (`.kicad_sch`) traced from each electrical drawing, the modu
 - [1978 - 453-01-002 - M453A CUE AMPLIFIER FUNCTIONAL DIAGRAM - DRN P. MAHONEY - ENG RKB - ISS 3.kicad_sch](KICAD/1978%20-%20453-01-002%20-%20M453A%20CUE%20AMPLIFIER%20FUNCTIONAL%20DIAGRAM%20-%20DRN%20P.%20MAHONEY%20-%20ENG%20RKB%20-%20ISS%203.kicad_sch)
 - [19xx - 453-02-001 - CUE AMPLIFIER SCHEMATIC - DRN D. Mahoney - ISS 2.kicad_sch](KICAD/19xx%20-%20453-02-001%20-%20CUE%20AMPLIFIER%20SCHEMATIC%20-%20DRN%20D.%20Mahoney%20-%20ISS%202.kicad_sch)
 - [M453.kicad_sym](KICAD/M453.kicad_sym)
-- [index.html](KICAD/index.html)
 
 ---
 Archive: Anthony Peter Kuzub · [WBSps.ca](https://WBSps.ca) · [WBSps.Kuzub.com](https://WBSps.Kuzub.com)
