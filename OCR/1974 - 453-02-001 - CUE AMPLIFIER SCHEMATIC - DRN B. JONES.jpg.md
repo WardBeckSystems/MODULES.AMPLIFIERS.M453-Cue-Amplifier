@@ -1,5 +1,5 @@
 # 1974 - 453-02-001 - CUE AMPLIFIER SCHEMATIC - DRN B. JONES.jpg
-Wiki page: [M453](../../../../PAGES/M453.md)
+Wiki page: [M453](../)
 
 
 - **Year:** 1974 (title block date)

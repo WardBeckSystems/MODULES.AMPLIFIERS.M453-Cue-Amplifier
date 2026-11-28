@@ -1,5 +1,5 @@
 # 1978 - 453-01-002 - M453A CUE AMPLIFIER FUNCTIONAL DIAGRAM - DRN P. MAHONEY - ENG RKB - ISS 3.jpg
-Wiki page: [M453](../../../../PAGES/M453.md)
+Wiki page: [M453](../)
 
 
 - **Year:** 1978 (title block date)

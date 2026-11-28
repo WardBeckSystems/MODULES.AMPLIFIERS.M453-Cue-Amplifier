@@ -1,5 +1,5 @@
 # 1978 - 453-06-002 - M453A CUE AMPLIFIER COMPONENT LAYOUT - DRN MRW - ENG MRW - ISS 5.jpg
-Wiki page: [M453](../../../../PAGES/M453.md)
+Wiki page: [M453](../)
 
 
 - **Year:** 1978 (title block date)

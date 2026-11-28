@@ -1,5 +1,5 @@
 # 19xx - 453-02-001 - CUE AMPLIFIER SCHEMATIC - DRN D. Mahoney - ISS 2.jpg
-Wiki page: [M453](../../../../PAGES/M453.md)
+Wiki page: [M453](../)
 
 
 - **Year:** unknown (title block (read by eye))
